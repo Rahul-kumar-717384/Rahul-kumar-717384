@@ -23,7 +23,6 @@ I'm a passionate **Coder / Developer** with experience in **Frontend  developmen
 
 <p align="center">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/>
-<img src = "https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt ="github" width="80 height="80"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/>
 </p>
  
